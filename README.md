@@ -2,598 +2,189 @@
 
 
 
-# 🩸 Curse of the Crimson Crypt
+# Curse of the Crimson Crypt 
 
-## 🎯 Basic Details
+## Basic Details
 
-### Team Name
-
-**HOST**
+### Team Name: Ctrl
 
 ### Team Members
 
-* **Team Lead:** T S SEETHALAKSHMI
-* **Member 2:** NIRANJANA V R
+* Member 1: T S Seethalakshmi- Sahrdaya College of Engineering and Technology
+* Member 2: Niranjana V R- Sahrdaya College of Engineering and Technology
 
----
+### Project Description
 
-# Project Description
+**Curse of the Crimson Crypt** is a useless horror-comedy browser game where the player enters a mysterious crypt, searches for a golden chalice using a flashlight, and accidentally activates a supernatural curse.
 
-**Curse of the Crimson Crypt** is a single-file desktop horror game that combines spooky exploration, a monster chase, jumpscares, and unexpected comedy.
+What starts as a terrifying escape game turns into something completely pointless: after running away from a monster, the player discovers that the monster was actually trying to return their wallet — and now the player has to pay a ₹4,699 damage invoice.
 
-The player explores a dark crypt using a mouse-controlled flashlight, escapes a horned beast by repeatedly pressing the **SPACEBAR**, and finally discovers that the terrifying demon only wants compensation for a dropped wallet.
+### The Problem (that doesn't exist)
 
----
+Have you ever wondered what would happen if you ran away from a terrifying demon without first checking whether it actually wanted to hurt you?
 
-# The Problem (that doesn't exist)
+Probably not.
 
-Exploring a completely dark crypt while being chased by a terrifying supernatural creature is already stressful.
+Our project solves the completely unnecessary problem of **running away from supernatural creatures without considering the financial consequences**.
 
-But there is one serious problem nobody has solved:
+Other nonexistent problems include:
 
-**What happens when a terrifying demon becomes more concerned about your wallet than your life?**
+* Not knowing where your wallet is.
+* Being chased by a monster for absolutely no reason.
+* Accidentally damaging ancient supernatural property.
+* Forgetting that monsters can apparently send invoices.
+* Signing a legal document before escaping a crypt.
 
-Our project addresses this extremely important and completely imaginary problem.
+### The Solution (that nobody asked for)
 
----
+We created a completely unnecessary horror game that makes the player:
 
-# The Solution (that nobody asked for)
+1. Explore a dark crypt using a mouse-controlled flashlight.
+2. Find and click a mysterious golden chalice.
+3. Get chased by a supernatural monster.
+4. Mash the SPACEBAR to run away.
+5. Experience a completely unnecessary jumpscare.
+6. Discover that the monster was actually trying to return the player's wallet.
+7. Receive a ridiculous **₹4,699 supernatural damage invoice**.
+8. Draw a signature on the screen to accept responsibility.
+9. Escape the crypt while still not getting the wallet back.
 
-We created a horror game that starts like a serious supernatural survival experience and ends like a visit to a government office.
+Because apparently, **escaping a demon is easier than escaping a damage invoice.**
 
-The player:
+## Technical Details
 
-1. Enters a pitch-black crypt.
-2. Uses a flashlight controlled by the mouse.
-3. Searches the room for a hidden golden chalice.
-4. Accidentally triggers a monster chase.
-5. Mashes **SPACEBAR** to escape.
-6. Gets hit with a terrifying jumpscare.
-7. Suddenly finds themselves in bright daylight.
-8. Discovers that the terrifying demon is wearing **reading glasses**.
-9. Gets scolded for running away.
-10. Receives an itemized **damage invoice** because they dropped their wallet.
-11. Must sign the invoice to finally escape.
+### Technologies/Components Used
 
-**The real final boss was paperwork.**
+For Software:
 
----
+* **Languages used:** HTML, CSS, JavaScript
+* **Frameworks used:** None
+* **Libraries used:** None
+* **Tools used:** VS Code, Git, GitHub, Web Browser
 
-# 🛠️ Technical Details
+For Hardware:
 
-## Technologies / Components Used
+* No special hardware required
+* Any laptop or desktop computer with a modern web browser
 
-### For Software
+### Implementation
 
-**Languages Used**
+For Software:
 
-* HTML5
-* CSS3
-* JavaScript
+# Installation
 
-**Frameworks**
+Clone the repository:
 
-* None
-
-**Libraries**
-
-* None
-
-**APIs / Web Technologies**
-
-* HTML5 Canvas API
-* Web Audio API
-* SVG
-* Mouse Events
-* Keyboard Events
-
-**Tools Used**
-
-* Visual Studio Code
-* Web Browser
-* GitHub
-* GitHub Pages
-
----
-
-### For Hardware
-
-No special hardware components are required.
-
-**Required Hardware:**
-
-* Desktop/Laptop
-* Keyboard
-* Mouse
-* Speakers/Headphones
-
----
-
-# 🎮 Implementation
-
-## For Software
-
-### Installation
-
-The project is designed as a **single HTML file**, so no complicated installation is required.
-
-Download or clone the project repository and open:
-
-```text
-index.html
+```bash
+git clone <your-github-repository-link>
 ```
 
-in a modern web browser.
+Open the project folder:
 
-No external assets or libraries need to be installed.
-
----
-
-## Run
-
-Simply double-click:
-
-```text
-index.html
+```bash
+cd crimson-crypt-comedy-66-main
 ```
 
-or open it using a modern browser such as:
+No external packages or dependencies are required.
 
-* Google Chrome
-* Microsoft Edge
-* Mozilla Firefox
+# Run
 
-For the best experience, use a desktop/laptop with **keyboard, mouse and audio enabled**.
-
----
-
-# 🎮 Gameplay Flow
+Simply open the HTML file in a web browser:
 
 ```text
-              START
-                ↓
-       DARK CRYPT / INTRO
-                ↓
-      MOUSE-CONTROLLED
-         FLASHLIGHT
-                ↓
-       EXPLORE THE ROOM
-                ↓
-      FIND GOLDEN CHALICE
-                ↓
-         CLICK CHALICE
-                ↓
-        MONSTER AWAKENS
-                ↓
-        CORRIDOR CHASE
-                ↓
-      MASH SPACEBAR
-                ↓
-     ┌──────────┴──────────┐
-     ↓                     ↓
- REACH THE END          GET CAUGHT
-     ↓                     ↓
-     └──────────┬──────────┘
-                ↓
-            JUMPSCARE
-                ↓
-        1-SECOND HORROR
-                ↓
-          HARD CUT
-                ↓
-       BRIGHT DAYLIGHT
-                ↓
-       DEMON + GLASSES
-                ↓
-       "WHERE'S MY WALLET?"
-                ↓
-        DAMAGE INVOICE
-                ↓
-        SIGN THE INVOICE
-                ↓
-              EXIT
-                ↓
-              END
+index (6).html
 ```
 
----
+Or use **Live Server** in VS Code for a better development experience.
 
-# 🕯️ Gameplay Features
+The game runs completely in the browser.
 
-## 1. Flashlight Exploration
+### Project Documentation
 
-The game begins in a completely dark room.
+For Software:
 
-The player controls a flashlight beam using the mouse.
+# Screenshots (Add at least 3)
 
-The flashlight reveals only a small area around the cursor while the rest of the crypt remains hidden in darkness.
+<img width="1366" height="603" alt="useless1" src="https://github.com/user-attachments/assets/4bbfdb3c-cd1c-47ab-93b4-62a05d282314" />
 
-The player must explore the room and locate a **hidden golden chalice**.
+*The player enters the dark Crimson Crypt and must use the mouse-controlled flashlight to search for the hidden golden chalice.*
 
----
+<img width="1346" height="598" alt="useless 2" src="https://github.com/user-attachments/assets/1d8750ef-f510-40fa-b1ca-96335a86bde7" />
 
-## 2. Golden Chalice Trigger
+*The player is chased by a supernatural monster and must repeatedly press the SPACEBAR to increase the distance.*
 
-The golden chalice is hidden somewhere inside the crypt.
+<img width="645" height="600" alt="useless4" src="https://github.com/user-attachments/assets/b4411f62-9641-4341-ae46-ae100765be01" />
 
-When the player discovers and clicks the chalice:
+*After discovering the ridiculous truth behind the chase, the player receives a ₹4,699 supernatural damage invoice and must sign it to escape.*
+
+# Diagrams
+
+*The game workflow: Crypt Exploration → Find Chalice → Monster Chase → Jumpscare → Comedy Twist → Damage Invoice → Signature → Escape.*
+
+### Game Flow
 
 ```text
-CHALICE FOUND
-      ↓
-CURSE ACTIVATED
-      ↓
-MONSTER AWAKENS
-      ↓
-CHASE BEGINS
+        START
+          │
+          ▼
+   ┌───────────────┐
+   │ Crimson Crypt │
+   │  Exploration  │
+   └───────┬───────┘
+           │
+           ▼
+    Find Golden Chalice
+           │
+           ▼
+     Activate Curse
+           │
+           ▼
+   ┌───────────────┐
+   │ Monster Chase │
+   └───────┬───────┘
+           │
+     Press SPACEBAR
+           │
+           ▼
+       Jumpscare
+           │
+           ▼
+    Comedy Twist
+           │
+           ▼
+    "Where's My Wallet?"
+           │
+           ▼
+    Damage Invoice
+       ₹4,699
+           │
+           ▼
+    Draw Signature
+           │
+           ▼
+    Invoice Accepted
+           │
+           ▼
+       ESCAPE
 ```
 
-This transitions the game into the corridor chase.
+### Project Demo
+
+# Video
+
+[Add your demo video li
+
+*The demo shows the complete gameplay experience, from exploring the crypt and finding the golden chalice to the monster chase, comedy twist, damage invoice, signature, and final escape.*
+
+# Additional Demos
+
+## Team Contributions
+
+* **T S Seethalakshmi:** Team lead, project planning, game concept, documentation, testing, presentation and project refinement.
+* **Niranjana V R:** Game development, HTML/CSS/JavaScript implementation, game flow, interaction logic, UI development, testing and GitHub integration.
 
 ---
 
-## 3. Corridor Chase
+Made with ❤️ at TinkerHub Useless Projects
 
-The player is chased by a terrifying **horned beast**.
-
-The chase uses custom SVG silhouettes rather than external images or emojis.
-
-The player must repeatedly press:
-
-```text
-SPACEBAR
-```
-
-to make the character run faster.
-
-A distance meter continuously decreases as the monster approaches.
-
-### Objective
-
-**Reach the end of the corridor before the monster catches you.**
-
----
-
-## 4. Screen Shake
-
-During the chase, the screen shakes dynamically to create a feeling of danger.
-
-The effect becomes more intense as the monster gets closer.
-
-This creates a sense of:
-
-> **"RUN. RUN. RUN."**
-
----
-
-# 😱 5. Jumpscare
-
-When the player reaches the end of the corridor — or gets caught — the game triggers a short jumpscare.
-
-The jumpscare includes:
-
-* Screen strobing
-* Rapid visual transition
-* Zooming demon mouth
-* Screen shake
-* Synthesized horror screech
-* Approximately one second of intense horror
-
-All sound effects are generated directly using the **Web Audio API**.
-
-No external audio files are used.
-
----
-
-# 😂 6. The Bureaucracy Twist
-
-Immediately after the jumpscare:
-
-**HARD CUT.**
-
-The terrifying atmosphere disappears.
-
-The screen becomes bright and cheerful.
-
-Cheery elevator-style music begins playing.
-
-The demon appears again — but this time:
-
-**wearing reading glasses.**
-
-Instead of attacking the player, the demon starts scolding them.
-
-The player discovers that the demon wasn't chasing them to kill them.
-
-The player had simply:
-
-> **DROPPED THEIR WALLET.**
-
-The demon is angry because the player caused damage while running away.
-
----
-
-# 🧾 7. Damage Invoice
-
-The demon presents the player with an itemized invoice.
-
-Example:
-
-| Item                            |     Damage |
-| ------------------------------- | ---------: |
-| Ancient Crypt Floor             |       ₹450 |
-| Broken Coffin                   |       ₹800 |
-| Monster's Emotional Trauma      |     ₹1,200 |
-| Emergency Demon Consultation    |       ₹750 |
-| Wallet Retrieval Fee            |       ₹500 |
-| Running Away Without Permission |       ₹999 |
-| **TOTAL**                       | **₹4,699** |
-
-The invoice is completely ridiculous and forms the main comedic ending of the game.
-
----
-
-# ✍️ 8. Interactive Signature Pad
-
-The player cannot exit immediately.
-
-They must sign the invoice using an HTML5 canvas-based signature pad.
-
-The player uses the mouse to scribble their signature.
-
-Once a valid signature is detected:
-
-```text
-SIGNATURE ACCEPTED
-        ↓
-INVOICE APPROVED
-        ↓
-DEMON SATISFIED
-        ↓
-EXIT GRANTED
-```
-
-The game then displays the final ending.
-
----
-
-# 🔊 Audio System
-
-The game does not use external sound files.
-
-All sounds are synthesized using the **Web Audio API**.
-
-### Generated Sounds Include:
-
-* Ambient crypt sounds
-* Horror drones
-* Monster chase sounds
-* Warning tones
-* Jumpscare screech
-* Impact sounds
-* Button/interface sounds
-* Cheerful elevator music
-
-This keeps the project completely self-contained in a single HTML file.
-
----
-
-# 📚 Project Documentation
-
-## Screenshots
-
-### Screenshot 1 — Crypt Exploration
-
-**Caption:**
-The player explores the pitch-black crypt using a mouse-controlled flashlight beam to search for the hidden golden chalice.
-
----
-
-### Screenshot 2 — Monster Chase
-
-**Caption:**
-The player is chased through the corridor by the horned beast while repeatedly pressing SPACEBAR to increase their escape speed.
-
----
-
-### Screenshot 3 — Bureaucracy Ending
-
-**Caption:**
-The horror suddenly transforms into a comedic bureaucracy scene where the demon, wearing reading glasses, presents the player with a damage invoice.
-
----
-
-# 📊 Diagrams
-
-## Game Architecture / Workflow
-
-**Caption:**
-The game progresses through multiple stages: exploration, chalice interaction, monster chase, jumpscare, comedic transition, invoice interaction and signature-based exit.
-
----
-
-# 🖥️ Game State Structure
-
-```text
-INTRO
-  │
-  ↓
-EXPLORATION
-  │
-  │ Click Chalice
-  ↓
-CHASE
-  │
-  ├── Monster catches player
-  │
-  └── Player reaches destination
-              │
-              ↓
-          JUMPSCARE
-              │
-              ↓
-        COMEDIC TWIST
-              │
-              ↓
-       DAMAGE INVOICE
-              │
-              ↓
-       SIGNATURE PAD
-              │
-              ↓
-             END
-```
-
----
-
-# 🔧 Hardware
-
-## Schematic & Circuit
-
-**Not Applicable**
-
-This project is entirely software-based and does not require electronic circuits or physical components.
-
----
-
-# 📸 Build Photos
-
-## Components
-
-**Not Applicable**
-
-No physical components are used.
-
----
-
-## Build Process
-
-The project was developed as a single HTML file containing:
-
-```text
-HTML
- ↓
-Game Interface
-
-CSS
- ↓
-Visual Effects & Animations
-
-JavaScript
- ↓
-Game Logic & Interaction
-
-Canvas API
- ↓
-Flashlight + Signature Pad
-
-SVG
- ↓
-Monster & Player Silhouettes
-
-Web Audio API
- ↓
-All Game Sounds
-```
-
----
-
-# 🏆 Final Product
-
-**Caption:**
-The completed playable horror-comedy game featuring the crypt exploration, monster chase, jumpscare and unexpected bureaucratic ending.
-
----
-
-# 🎥 Project Demo Video
-
-**[Add your demo video link here]**
-
-### What the video demonstrates
-
-The demo demonstrates the complete gameplay experience:
-
-* Entering the dark crypt
-* Controlling the flashlight with the mouse
-* Finding the golden chalice
-* Triggering the monster
-* Escaping through the corridor
-* Mashing SPACEBAR
-* Experiencing the jumpscare
-* Seeing the unexpected comedy transition
-* Meeting the glasses-wearing demon
-* Receiving the damage invoice
-* Signing the invoice
-* Completing the game
-
----
-
-# 🔗 Additional Demos
-
-**Live Demo:** [Add GitHub Pages link]
-
-**GitHub Repository:** [Add repository link]
-
-**Demo Video:** [Add video link]
-
----
-
-# 👥 Team Contributions
-
-### T S SEETHALAKSHMI
-
-* Developed the overall game concept
-* Implemented the game logic
-* Created the crypt exploration system
-* Implemented the mouse-controlled flashlight
-* Developed the monster chase
-* Implemented keyboard-based running mechanics
-* Created the jumpscare sequence
-* Implemented the interactive invoice and signature pad
-
-### NIRANJANA V E
-
-* Designed the game's visual interface
-* Worked on CSS animations and horror effects
-* Created/customized SVG character silhouettes
-* Assisted with the comedic ending design
-* Tested the gameplay
-
-### [Member 3]
-
-* Implemented and tested Web Audio API sound effects
-* Created synthesized horror and elevator sounds
-* Assisted with game balancing and debugging
-* Worked on documentation and deployment
-
----
-
-# 💡 What Makes the Project Useless?
-
-The player spends several minutes:
-
-**exploring a haunted crypt → running from a demon → surviving a jumpscare...**
-
-only to discover that the entire supernatural crisis was actually about:
-
-## 🧾 A LOST WALLET.
-
-And after surviving the apocalypse, the player still has to:
-
-### **SIGN THE INVOICE.**
-
----
-
-# ❤️ Conclusion
-
-**Curse of the Crimson Crypt** combines horror, interaction and comedy into one intentionally ridiculous experience.
-
-The project begins as a traditional horror game but deliberately breaks the player's expectations with an absurd bureaucratic ending.
-
-The result is a game that asks one very important question:
-
-> **Why fight a demon when you can just sign the paperwork?**
-
----
-
-**Made with ❤️ at TinkerHub Useless Projects**
+\
